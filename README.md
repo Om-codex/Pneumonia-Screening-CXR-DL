@@ -61,14 +61,14 @@ We conducted a comparative study between a standard transfer-learning approach a
 ### 1. Clone the Repository
 ```
 git clone [https://github.com/Om-codex/Pneumonia-Screening-CXR-DL.git](https://github.com/Om-codex/Pneumonia-Screening-CXR-DL/)
-
-2. Install Dependencies
-
+```
+### 2. Install Dependencies
+```
 pip install -r requirements.txt
-3. Run the App
-
+```
+### 3. Run the App
+```
 streamlit run Home.py
-
 ```
 
 ##  📂 Project Structure
