@@ -8,12 +8,10 @@
 > Benchmarking **ResNet50 (Baseline)** vs. **DenseNet121 (Champion)** on Chest X-Rays.
 
 ---
-
+**Live Demo:** [pulmoscan.streamlit.app](https://pulmoscan.streamlit.app)
+---
 ## 📸 Project Demo
 ![home_page](./images/pulmoscan3.png)
-
-**Live Demo:** [pulmoscan.streamlit.app](https://pulmoscan.streamlit.app)
-
 ![prediction](./images/pulmoscan2.png)
 ![gradcam](./images/pulmoscan1.png)
 
