@@ -3,16 +3,20 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-> **A Deep Learning-powered medical screening tool designed to minimize False Negatives in pneumonia detection.** > Benchmarking **ResNet50 (Baseline)** vs. **DenseNet121 (Champion)** on Chest X-Rays.
+> **A Deep Learning-powered medical screening tool designed to minimize False Negatives in pneumonia detection.**
+> Benchmarking **ResNet50 (Baseline)** vs. **DenseNet121 (Champion)** on Chest X-Rays.
 
 ---
 
 ## 📸 Project Demo
-![App Screenshot]()
+![home_page](./images/pulmoscan3.png)
 
 **Live Demo:** [pulmoscan.streamlit.app](https://pulmoscan.streamlit.app)
+
+![prediction](./images/pulmoscan2.png)
+![gradcam](./images/pulmoscan1.png)
+
 
 ---
 
