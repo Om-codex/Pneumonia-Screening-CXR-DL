@@ -114,6 +114,6 @@ If you have any questions about this project, want to discuss the architecture, 
 * 📧 **Email:** [omm512462@gmail.com](mailto:omm512462@gmail.com)
 * 👔 **LinkedIn:** [Om Mishra](https://www.linkedin.com/in/om-mishra-a55263329)
 * 🐙 **GitHub:** [Om-codex](https://github.com/Om-codex)
-* 🌐 **Portfolio:** Coming Soon...
+* 🌐 **Portfolio:** [Om-Codex Portfolio](https://om-codex.netlify.app/)
   
 ### **Disclaimer:** This tool is for educational and research purposes only. It is not a substitute for professional medical diagnosis.
